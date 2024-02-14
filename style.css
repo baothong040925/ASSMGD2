@@ -1,0 +1,75 @@
+.full{
+    width: 1535px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+header img{
+    float: left;
+    margin-left: 200px;
+}
+header h1{
+    padding-right: 200px;
+}
+.logo img {
+    max-width: 100px;
+    border: 3px solid white;
+    border-radius: 50%;
+}
+
+nav {
+    background-color: rgb(216, 216, 39);
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav li {
+    float: left;
+}
+
+nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 123.8px;
+    text-decoration: none;
+}
+nav a:hover {
+    background-color: blue;
+    color: black;
+}
+.noidung{
+    background-color: bisque;
+    
+    display: block;
+    border: 2px solid aquamarine;
+}
+.chantrang{
+    border: 2px solid aqua;
+    background-color: aqua;
+    text-align: center; 
+    display: block;
+}
+.gt {
+    float: right;
+
+}
+.nut{
+
+    padding-right: 100px;
+}
+
